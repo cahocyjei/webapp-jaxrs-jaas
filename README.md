@@ -8,7 +8,7 @@ jass jakarta.annotation.security
 
 CLIENTE POSTMAN - Authorization= Basic, user= "omar"-password=1914, admin= "admin"-password=1931
 
-Clientejboss.resteasy  : https://github.com/cahocyjei/clientejaxrs
+Cliente jboss.resteasy  : https://github.com/cahocyjei/clientejaxrs
 
 wildfly-preview-26.1.1.Final\ 
 
