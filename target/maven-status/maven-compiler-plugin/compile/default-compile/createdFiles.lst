@@ -1,0 +1,8 @@
+org\troyka\webaap\jaxrs\services\ServiceCursoWs.class
+org\troyka\webaap\jaxrs\ProduceEntitiManager.class
+org\troyka\webaap\jaxrs\repositories\CursoRepository.class
+org\troyka\webaap\jaxrs\services\ServiceCursoWsImpl.class
+org\troyka\webaap\jaxrs\models\Instructor.class
+org\troyka\webaap\jaxrs\controllers\CursoControllers.class
+org\troyka\webaap\jaxrs\repositories\CursoRepositoryImpl.class
+org\troyka\webaap\jaxrs\models\Curso.class
